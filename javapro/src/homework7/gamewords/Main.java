@@ -8,6 +8,6 @@ public class Main {
                 "garlic", "grape", "melon", "leak", "kiwi", "mango", "mushroom", "nut", "olive", "pea", "peanut",
                 "pear", "pepper", "pineapple", "pumpkin", "potato"};
 
-        services.compareWords(words);
+        Services.compareWords(words);
     }
 }

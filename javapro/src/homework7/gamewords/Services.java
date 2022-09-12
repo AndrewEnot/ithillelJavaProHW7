@@ -3,7 +3,7 @@ package homework7.gamewords;
 import java.util.Random;
 import java.util.Scanner;
 
-public class services {
+public class Services {
 
     //TASK #5: Game Words, where we compare word is given by User and word from array (chosen by Computer)
     static void compareWords(String[] strings) {
